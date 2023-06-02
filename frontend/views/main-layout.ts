@@ -75,6 +75,11 @@ export class MainLayout extends Layout {
         title: 'Hello Flow World',
         icon: 'globe-solid',
       },
+      {
+        path: 'hello-flolla-world',
+        title: 'Hello Flolla World',
+        icon: 'globe-solid',
+      },
 
       {
         path: 'hello-hilla-world',
